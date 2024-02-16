@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋,I'm Rani Kumari.</h1>
 <h3 align="center">Becoming a Data Scientist 🚀 | Curious, Analytical, and Prepared to Delve into the Depths 📊</h3>
 
-<image align="right" alt="code" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&usqp=CAU">
+<image align="right" alt="code" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&usqp=CAU">
 
 - 🌱 I'm currently in the process of acquiring expertise in **Python, Machine Learning, Statistics, SQL, Power BI and Web Scrapping.**
 
