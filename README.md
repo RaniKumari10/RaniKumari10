@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋,I'm Rani Kumari.</h1>
 <h3 align="center">Becoming a Data Scientist 🚀 | Curious, Analytical, and Prepared to Delve into the Depths 📊</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranikumari10&label=Profile%20views&color=0e75b6&style=flat" alt="ranikumari10" /> </p>
-
 
 - 🌱 I'm currently in the process of acquiring expertise in **Python, Machine Learning, Statistics, SQL, Power BI and Web Scrapping.**
 
