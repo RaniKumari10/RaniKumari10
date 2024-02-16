@@ -44,7 +44,7 @@ alt="sqlite" width="40" height="40"/> </a>
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite3" width="40" height="40" target="_blank"/>
     </a> 
     <a href="https://www.selenium.dev/" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="Selenium" width="40" height="40" target="_blank"/>
+        <img src="[https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg](https://www.selenium.dev/)" alt="Selenium" width="40" height="40" target="_blank"/>
     </a> 
     <a href="https://www.crummy.com/software/BeautifulSoup/" rel="noreferrer">
         <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" alt="Beautiful Soup" width="40" height="40" target="_blank"/>
