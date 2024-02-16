@@ -30,12 +30,8 @@
     <a href="https://scikit-learn.org/" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" target="_blank"/>
     </a> 
-    <a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/timeseries.html" rel="noreferrer">
-        <img src="https://image.flaticon.com/icons/png/512/3039/3039371.png" alt="TimeSeries" width="40" height="40" target="_blank"/>
-    </a> 
-    <a href="https://docs.python.org/3/library/statistics.html" rel="noreferrer">
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEA…Wc66ca5Fz3l9nVAEzOk3/AzUMC8i6hiEaAAAAAElFTkSuQmCC" alt="Statistics" width="40" height="40" target="_blank"/>
-    </a> 
+    
+    
     <a href="https://www.sqlite.org/" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite3" width="40" height="40" target="_blank"/>
     </a> 
