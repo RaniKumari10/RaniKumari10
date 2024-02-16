@@ -30,8 +30,6 @@
     <a href="https://scikit-learn.org/" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" target="_blank"/>
     </a> 
-    
-    
     <a href="https://www.sqlite.org/" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite3" width="40" height="40" target="_blank"/>
     </a> 
