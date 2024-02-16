@@ -1,7 +1,7 @@
 
-
-<h1 align="center">Hi 👋,I'm Rani Kumari.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranikumari10&label=Profile%20views&color=0e75b6&style=flat" alt="ranikumari10" /> </p>
+<h1 align="center">Hi 👋,I'm Rani Kumari.</h1>
+
 <h3 align="center">Becoming a Data Scientist 🚀 | Curious, Analytical, and Prepared to Delve into the Depths 📊</h3>
 
 <image align="right" alt="code" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUHHelMnrA99F1vB3UorS_k8_2w-3rw2aLig&usqp=CAU">
